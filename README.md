@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="client/public/favicon.svg" alt="Imagify Logo" width="180"/>
@@ -198,3 +199,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![GitHub Follow](https://img.shields.io/github/followers/singh04ayush?style=social)](https://github.com/singh04ayush)
 
 </div> 
+=======
+# Imagify-Ai
+>>>>>>> aabf9d0bb7d8b68c691e59daa37c5e620b2dd707
