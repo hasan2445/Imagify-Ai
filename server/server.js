@@ -12,7 +12,11 @@ const app = express()
 app.use(express.json())
 
 // Allow CORS from any origin
-app.use(cors({ origin: '*' }))
+app.use(cors({
+  origin: 'https://imagify-tfl6.onrender.com', 
+  credentials: true,
+}));
+
 
 await connectDB()
 
