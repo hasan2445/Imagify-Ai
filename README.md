@@ -44,7 +44,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/singh04ayush/imagify.git
+git clone https://github.com/hasan2445/imagify.git
 cd imagify
 ```
 
